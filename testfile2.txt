@@ -1,1 +1,3 @@
-first git project
+hello github! 
+
+hello from vscode
